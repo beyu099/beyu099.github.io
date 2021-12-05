@@ -47,6 +47,7 @@ header{
     width: 100%;
     position: fixed;
     z-idex: 12;
+    background: black;
 }
 .header{
     padding: 2rem;
