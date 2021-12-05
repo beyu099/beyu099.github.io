@@ -42,6 +42,12 @@ body {
 /*********************************
 Header Area
 *********************************/
+header{
+    height: 100px;
+    width: 100%;
+    position: fixed;
+    z-idex: 12;
+}
 .header{
     padding: 2rem;
     display: flex;
